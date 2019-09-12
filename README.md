@@ -14,7 +14,7 @@ Seven Wonders is an Alexa Skill which tells about all the seven wonders of the w
 ## Colosseum
 ![colosseum-facts-3](https://user-images.githubusercontent.com/32364768/64476923-abe7f480-d1b2-11e9-872c-964237031e00.jpg)
 
-## Christ of Redeemer
+## Christ The Redeemer
 ![christ of redeemer](https://user-images.githubusercontent.com/32364768/64476928-b99d7a00-d1b2-11e9-9774-26e2590ebb47.jpg)
 
 ## El Castillo
