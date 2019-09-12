@@ -140,9 +140,8 @@
                         "height": "100vh"
                     },
                     {
-                        "type": "AlexaHeader",
-                        "headerTitle": "${payload.bodyTemplate7Data.title}",
-                        "headerAttributionImage": "${payload.bodyTemplate7Data.logoUrl}"
+                        "headerTitle": "TAJ MAHAL",
+                        "type": "AlexaHeader"
                     },
                     {
                         "type": "Container",
@@ -152,10 +151,10 @@
                         "items": [
                             {
                                 "type": "Image",
-                                "source": "${payload.bodyTemplate7Data.image.sources[0].url}",
-                                "scale": "best-fill",
                                 "width": "100vh",
                                 "height": "70vw",
+                                "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
+                                "scale": "best-fill",
                                 "align": "center"
                             }
                         ]
@@ -169,14 +168,13 @@
                 "items": [
                     {
                         "type": "Image",
-                        "source": "${payload.bodyTemplate7Data.backgroundImage.sources[0].url}",
-                        "scale": "best-fill",
-                        "position": "absolute",
                         "width": "100vw",
-                        "height": "100vh"
+                        "height": "100vh",
+                        "scale": "best-fill",
+                        "position": "absolute"
                     },
                     {
-                        "headerTitle": "Taj Mahal",
+                        "headerTitle": "${payload.bodyTemplate7Data.title}",
                         "type": "AlexaHeader"
                     },
                     {
