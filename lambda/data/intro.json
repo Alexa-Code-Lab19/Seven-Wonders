@@ -9,13 +9,13 @@
             "largeSourceUrl": null,
             "sources": [
                 {
-                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "url": "https://www.nt4kids.org/wp-content/uploads/2017/01/blue-background-dark-square-1024x1024.png",
                     "size": "small",
                     "widthPixels": 0,
                     "heightPixels": 0
                 },
                 {
-                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/BT7_Background.png",
+                    "url": "https://www.nt4kids.org/wp-content/uploads/2017/01/blue-background-dark-square-1024x1024.png",
                     "size": "large",
                     "widthPixels": 0,
                     "heightPixels": 0
@@ -28,20 +28,20 @@
             "largeSourceUrl": null,
             "sources": [
                 {
-                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/MollyforBT7.png",
+                    "url": "https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg",
                     "size": "small",
                     "widthPixels": 0,
                     "heightPixels": 0
                 },
                 {
-                    "url": "https://d2o906d8ln7ui1.cloudfront.net/images/MollyforBT7.png",
+                    "url": "https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg",
                     "size": "large",
                     "widthPixels": 0,
                     "heightPixels": 0
                 }
             ]
         },
-        "logoUrl": "https://d2o906d8ln7ui1.cloudfront.net/images/cheeseskillicon.png",
-        "hintText": "Try, \"Alexa, search for blue cheese\""
+        "logoUrl": "https://sogospelbackrow.files.wordpress.com/2015/09/7.jpg",
+        "hintText": "Try, \"Alexa, search for seven\""
     }
 }
